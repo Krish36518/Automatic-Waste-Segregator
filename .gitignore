@@ -1,0 +1,22 @@
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Gradio
+.gradio/
+
+# Data & model checkpoints
+TRAIN/
+TEST/
+*.h5
+*.keras
+*.pt
+*.ckpt
+*.pth
+waste_classifier_model.keras
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
